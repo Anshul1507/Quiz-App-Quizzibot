@@ -1,0 +1,252 @@
+<resources >
+    <string name="app_name">My Application</string>
+    <string name="home_title">How \n knowledgeable \n are you? </string>
+    <string name="edittext_username">Your name</string>
+    <string name="about_text_view"> <b>About </b></string>
+    <string name="about_page">\n <b>  Quizzibot</b> \n\n  <b>Version: 1.0</b> \n\n <b>Game Design: Anshul Gupta</b> \n\n <b> Company: Code Xonic</b></string>
+    <string name="rules_page">\n <b> ~ Answer the questions as fast as you can.</b>\n
+                              \n <b> ~ Time limit - 5 minutes</b>\n
+                              \n <b> ~ No. of Questions - 10 </b>\n
+                              \n <b> ~ The questions shall be in the form of multiple choice, True / False statement, Specific-answer question etc.</b></string>
+    <string name="subtitle_quiz">Good luck for Quiz</string>
+    <!--- For RANDOM QUIZ -->
+    <string name="rq1"><b>Which protocol provides e-mail facility among different hosts?</b></string>
+    <string name="rq1_a"><b>FTP</b></string>
+    <string name="rq1_b"><b>SMTP</b></string>
+    <string name="rq1_c"><b>TELNET</b></string>
+    <string name="rq1_d"><b>SNMP</b></string>
+
+    <string name="rq2"><b>Which one of these is not a insect?</b></string>
+    <string name="rq2_a"><b>Tick</b></string>
+    <string name="rq2_b"><b>Mosquito</b></string>
+    <string name="rq2_c"><b>Flea</b></string>
+    <string name="rq2_d"><b>None of the above</b></string>
+
+    <string name="rq3"><b>Scurvy is the result of a deficiency in which vitamin?</b></string>
+    <string name="rq3_a"><b>Vitamin A</b></string>
+    <string name="rq3_b"><b>Vitamin C</b></string>
+    <string name="rq3_c"><b>Vitamin D</b></string>
+    <string name="rq3_d"><b>Vitamin B</b></string>
+
+    <string name="rq4"><b>What is the name of Mickey Mouse pet dog ?</b></string>
+    <string name="rq4_a"><b>Pluto</b></string>
+    <string name="rq4_b"><b>Donald</b></string>
+    <string name="rq4_c"><b>Goofy</b></string>
+    <string name="rq4_d"><b>None of the above</b></string>
+
+    <string name="rq5"><b>How many percent of the people live North of the equator?</b></string>
+    <string name="rq5_a"><b>60%</b></string>
+    <string name="rq5_b"><b>70%</b></string>
+    <string name="rq5_c"><b>80%</b></string>
+    <string name="rq5_d"><b>90%</b></string>
+
+    <string name="rq6"><b>The Statue of Liberty was given to the United States as a gift from which country?</b></string>
+    <string name="rq6_a"><b>Italy</b></string>
+    <string name="rq6_b"><b>France</b></string>
+    <string name="rq6_c"><b>Spain</b></string>
+    <string name="rq6_d"><b> None of the above</b></string>
+
+    <string name="rq7"><b>How many innings does a baseball game have?</b></string>
+    <string name="rq7_a"><b>6</b></string>
+    <string name="rq7_b"><b>9</b></string>
+    <string name="rq7_c"><b>12</b></string>
+    <string name="rq7_d"><b>None of the above</b></string>
+
+    <string name="rq8"><b>What is the longest river in the world?</b></string>
+    <string name="rq8_a"><b>Nile</b></string>
+    <string name="rq8_b"><b>Amazon</b></string>
+    <string name="rq8_c"><b>Mississippi</b></string>
+    <string name="rq8_d"><b>None of the above</b></string>
+
+    <string name="rq9"><b>From which languages did COFFEE originate? \n (Check all that apply)</b></string>
+    <string name="rq9_a"><b>Turkish</b></string>
+    <string name="rq9_b"><b>Arabic</b></string>
+    <string name="rq9_c"><b>Italian</b></string>
+    <string name="rq9_d"><b>French</b></string>
+
+    <string name="rq10"><b>Is Earth is the 3rd closest planet to the sun?</b></string>
+    <string name="rq10_a"><b>True</b></string>
+    <string name="rq10_b"><b>False</b></string>
+
+    <!--- for GK QUIZ-->
+
+    <string name="gq1"><b>Indian first satellite Aryabhatta was launched from ?</b></string>
+    <string name="gq1_a"><b>Soviet Union</b></string>
+    <string name="gq1_b"><b>America</b></string>
+    <string name="gq1_c"><b>India</b></string>
+    <string name="gq1_d"><b>Israel</b></string>
+
+    <string name="gq2"><b>Which one of the following is the hardest element ?</b></string>
+    <string name="gq2_a"><b>Copper</b></string>
+    <string name="gq2_b"><b>Iron</b></string>
+    <string name="gq2_c"><b>Silicon</b></string>
+    <string name="gq2_d"><b>Diamond</b></string>
+
+    <string name="gq3"><b>What would a tailor do with his hot plonker ?</b></string>
+    <string name="gq3_a"><b>Stitch Cloth</b></string>
+    <string name="gq3_b"><b>Cut Cloth</b></string>
+    <string name="gq3_c"><b>Iron Cloth</b></string>
+    <string name="gq3_d"><b>Hang Cloth</b></string>
+
+    <string name="gq4"><b>The Chemical name of common salt is :-</b></string>
+    <string name="gq4_a"><b>Potassium Chloride</b></string>
+    <string name="gq4_b"><b>Sodium Chloride</b></string>
+    <string name="gq4_c"><b>Calcium Carbonate</b></string>
+    <string name="gq4_d"><b>Sodium Carbonate</b></string>
+
+    <string name="gq5"><b>Which was the world first National Park ?</b></string>
+    <string name="gq5_a"><b>YellowStone Park</b></string>
+    <string name="gq5_b"><b>Sequoia</b></string>
+    <string name="gq5_c"><b>Hot Springs</b></string>
+    <string name="gq5_d"><b>Channel Islands</b></string>
+
+    <string name="gq6"><b>Which of the following was formed as the 26th state of India ?</b></string>
+    <string name="gq6_a"><b>Chhatisgarh</b></string>
+    <string name="gq6_b"><b>uttaranchal</b></string>
+    <string name="gq6_c"><b>Jharkhand</b></string>
+    <string name="gq6_d"><b>Goa</b></string>
+
+    <string name="gq7"><b>The planet nearest to the sun is :-</b></string>
+    <string name="gq7_a"><b>Saturn</b></string>
+    <string name="gq7_b"><b>Jupiter</b></string>
+    <string name="gq7_c"><b>Venus</b></string>
+    <string name="gq7_d"><b>Mercury</b></string>
+
+    <string name="gq8"><b>Which country has the lowest rate of newspaper circulation per capita ?</b></string>
+    <string name="gq8_a"><b>Iceland</b></string>
+    <string name="gq8_b"><b>Italy</b></string>
+    <string name="gq8_c"><b>India</b></string>
+    <string name="gq8_d"><b>Indonesia</b></string>
+
+    <string name="gq9"><b>Which of the following is not a member of G-15 ? \n (Check all that apply)</b></string>
+    <string name="gq9_a"><b>India</b></string>
+    <string name="gq9_b"><b>Pakistan</b></string>
+    <string name="gq9_c"><b>Sri Lanka</b></string>
+    <string name="gq9_d"><b>Japan</b></string>
+
+    <string name="gq10"><b>Is Angel the highest waterfall of the world ?</b></string>
+    <string name="gq10_a"><b>True</b></string>
+    <string name="gq10_b"><b>False</b></string>
+
+    <!--- for SPORTS QUIZ-->
+
+    <string name="sq1"><b>"Straight from the Heart" is an autobiography of :-</b></string>
+    <string name="sq1_a"><b>Milkha Singh</b></string>
+    <string name="sq1_b"><b>Yuvraj Singh</b></string>
+    <string name="sq1_c"><b>Kapil Dev</b></string>
+    <string name="sq1_d"><b>Abhinav Mishra</b></string>
+
+    <string name="sq2"><b>Indian to score the highest runs in a World Cup Innings :-</b></string>
+    <string name="sq2_a"><b>Sourav Ganguly</b></string>
+    <string name="sq2_b"><b>Md. Azharuddin</b></string>
+    <string name="sq2_c"><b>Kapil Dev</b></string>
+    <string name="sq2_d"><b>MS Dhoni</b></string>
+
+    <string name="sq3"><b>First Indian Batsman to complete 10,000 runs in Test Cricket :-</b></string>
+    <string name="sq3_a"><b>Lala Amarnath</b></string>
+    <string name="sq3_b"><b>Sunil Gavaskar</b></string>
+    <string name="sq3_c"><b>Kapil Dev</b></string>
+    <string name="sq3_d"><b>Sachin Tendulkar</b></string>
+
+    <string name="sq4"><b>Which game will be dropped from 2020 Olympic Games as declared by IOC recently ?</b></string>
+    <string name="sq4_a"><b>Kabaddi</b></string>
+    <string name="sq4_b"><b>Shooting</b></string>
+    <string name="sq4_c"><b>Wrestling</b></string>
+    <string name="sq4_d"><b>Archery</b></string>
+
+    <string name="sq5"><b>First Tennis Grand Slam Title and the Mixed Doubles category was won by :-</b></string>
+    <string name="sq5_a"><b>Leander Peas</b></string>
+    <string name="sq5_b"><b>Vijay AmritRaj</b></string>
+    <string name="sq5_c"><b>Mahesh Bhupathi</b></string>
+    <string name="sq5_d"><b>Sania Mirza</b></string>
+
+    <string name="sq6"><b>In Which city, the first Polo Club was established in 1834 ?</b></string>
+    <string name="sq6_a"><b>Mumbai</b></string>
+    <string name="sq6_b"><b>Delhi</b></string>
+    <string name="sq6_c"><b>Silchar</b></string>
+    <string name="sq6_d"><b>Pune</b></string>
+
+    <string name="sq7"><b>First Indian to take a Test Cricket hat-trick :-</b></string>
+    <string name="sq7_a"><b>Chetan Sharma</b></string>
+    <string name="sq7_b"><b>Harbhajan Singh</b></string>
+    <string name="sq7_c"><b>Anil Kumble</b></string>
+    <string name="sq7_d"><b>Chetan Chahuhan</b></string>
+
+    <string name="sq8"><b>Which country hosted 2015 World Cup Cricket ?</b></string>
+    <string name="sq8_a"><b>England</b></string>
+    <string name="sq8_b"><b>South Africa</b></string>
+    <string name="sq8_c"><b>Australia</b></string>
+    <string name="sq8_d"><b>India</b></string>
+
+    <string name="sq9"><b>Indian players who have scored 10,000 or more runs in Test cricket :-\n (Check all that apply)</b></string>
+    <string name="sq9_a"><b>Virat Kohli</b></string>
+    <string name="sq9_b"><b>Sachin Tendulkar</b></string>
+    <string name="sq9_c"><b>MS Dhoni</b></string>
+    <string name="sq9_d"><b>Rahul Dravid</b></string>
+
+    <string name="sq10"><b>A score of deuce means the score is 60-60 in Tennis ?</b></string>
+    <string name="sq10_a"><b>True</b></string>
+    <string name="sq10_b"><b>False</b></string>
+
+    <!--- for TECHNICAL QUIZ-->
+
+    <string name="tq1"><b>Where was the first electronic computer built ?</b></string>
+    <string name="tq1_a"><b>France</b></string>
+    <string name="tq1_b"><b>Right--U.S.A</b></string>
+    <string name="tq1_c"><b>Germany</b></string>
+    <string name="tq1_d"><b>India</b></string>
+
+    <string name="tq2"><b>Which car company produces the Civic ?</b></string>
+    <string name="tq2_a"><b>Nissan</b></string>
+    <string name="tq2_b"><b>right--Honda</b></string>
+    <string name="tq2_c"><b>Audi</b></string>
+    <string name="tq2_d"><b>Skoda</b></string>
+
+    <string name="tq3"><b>What does "C" in "CPU" srand for ?</b></string>
+    <string name="tq3_a"><b>Chat</b></string>
+    <string name="tq3_b"><b>Central</b></string>
+    <string name="tq3_c"><b>Control</b></string>
+    <string name="tq3_d"><b>Cathode</b></string>
+
+    <string name="tq4"><b>What type of file is a .TMP file ?</b></string>
+    <string name="tq4_a"><b>Audio file</b></string>
+    <string name="tq4_b"><b>Image file</b></string>
+    <string name="tq4_c"><b>Temporary file</b></string>
+    <string name="tq4_d"><b>Movie file</b></string>
+
+    <string name="tq5"><b>How many percent of the people live North of the equator?</b></string>
+    <string name="tq5_a"><b>60%</b></string>
+    <string name="tq5_b"><b>70%</b></string>
+    <string name="tq5_c"><b>80%</b></string>
+    <string name="tq5_d"><b>90%</b></string>
+
+    <string name="tq6"><b>What software company developed illustrator ?</b></string>
+    <string name="tq6_a"><b>Adobe</b></string>
+    <string name="tq6_b"><b>IBM</b></string>
+    <string name="tq6_c"><b>Apple</b></string>
+    <string name="tq6_d"><b>Microsoft</b></string>
+
+    <string name="tq7"><b>What does AI stand for ?</b></string>
+    <string name="tq7_a"><b>Advanced Icon</b></string>
+    <string name="tq7_b"><b>Active Interface</b></string>
+    <string name="tq7_c"><b>Automated Icon</b></string>
+    <string name="tq7_d"><b>Artificial Intelligence</b></string>
+
+    <string name="tq8"><b>Whhen was the Sony PlayStation 3 released ?</b></string>
+    <string name="tq8_a"><b>2006</b></string>
+    <string name="tq8_b"><b>2000</b></string>
+    <string name="tq8_c"><b>2009</b></string>
+    <string name="tq8_d"><b>2012</b></string>
+
+    <string name="tq9"><b>C Language is :- \n (Check all that apply)</b></string>
+    <string name="tq9_a"><b>Programming Lang.</b></string>
+    <string name="tq9_b"><b>3rd Gen. High Level Lang.</b></string>
+    <string name="tq9_c"><b>2nd Gen. High Level Lang.</b></string>
+    <string name="tq9_d"><b>1st Gen. High Level Lang.</b></string>
+
+    <string name="tq10"><b>Is Java a Operating System ?</b></string>
+    <string name="tq10_a"><b>True</b></string>
+    <string name="tq10_b"><b>False</b></string>
+
+
+</resources>

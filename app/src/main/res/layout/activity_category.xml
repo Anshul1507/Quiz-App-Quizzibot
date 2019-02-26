@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/home_image">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".category">
+
+        <TextView
+            android:id="@+id/category_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="Select by Category:"
+            android:textColor="#000000"
+            android:textSize="36sp" />
+
+        <View
+            android:id="@+id/category_line"
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/category_text_view"
+            android:layout_margin="5dp"
+            android:background="@color/colorPrimaryDark" />
+
+        <ImageButton
+            android:id="@+id/random_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/category_line"
+            android:layout_margin="15dp"
+            android:background="@android:color/darker_gray"
+            android:src="@drawable/random_button" />
+
+        <ImageButton
+            android:id="@+id/gk_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/random_btn"
+            android:layout_margin="15dp"
+            android:background="@android:color/darker_gray"
+            android:src="@drawable/gk_btn" />
+
+        <ImageButton
+            android:id="@+id/sport_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/gk_btn"
+            android:layout_margin="15dp"
+            android:background="@android:color/darker_gray"
+            android:src="@drawable/sport_btn" />
+
+        <ImageButton
+            android:id="@+id/tech_btn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/sport_btn"
+            android:layout_margin="15dp"
+            android:background="@android:color/darker_gray"
+            android:src="@drawable/tech_btn" />
+
+
+    </RelativeLayout>
+</ScrollView>
